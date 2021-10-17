@@ -1,0 +1,8 @@
+What data cleaning can fix?
+-Missing values
+-Misspellings
+-Duplicate rows
+-Inconsistence formats
+-Extracting information from complex values
+-Unspecified unit conversions
+-Interpretation of magnitudes
