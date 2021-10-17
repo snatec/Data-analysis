@@ -1,3 +1,4 @@
 # Data-analysis
 
-A simple project to find 5 popular names in specific year 
+1) A simple project to find 5 popular names in specific year (https://github.com/snatec/Data-analysis/blob/main/Tabular%20data.ipynb)
+2) Sample illustration of Data cleaning in specific dataset (https://github.com/snatec/Data-analysis/tree/main/Data%20cleaning)
